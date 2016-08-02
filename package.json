@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "rpio2": "*"
+    "rpio2": "*",
+    "wait-promise": "*"
   },
   "devDependencies": {
 
