@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "rpio2": "*",
-    "wait-promise": "*"
+    "wait-promise": "*",
+    "iconv-lite": "^0.4.13"
   },
   "devDependencies": {
 
